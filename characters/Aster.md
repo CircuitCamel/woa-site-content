@@ -5,7 +5,7 @@ Class: Cleric/Fighter
 Level: 4
 Age: 26
 ---
-#### Backstory
+## Backstory
 
 He was taken as a war slave after the war. He was transported by a ship. it is believed that he killed the crew that captured him before he was stopped by their colonel. 
 
