@@ -7,40 +7,54 @@ Age: 26
 ---
 ## Backstory
 
-After countless battles in the Trivarian army, Wymar Kraft and his trusted crew of four finally laid down their arms. Tired of bloodshed and disillusioned by orders from above, they disbanded and went their separate ways. Seeking purpose in peacetime, Wymar wandered aimlessly—until he found a calling in exploration.
+For years, Wymar Kraft fought in the Trivarian army alongside his comrade and close friend, Max Barion. During one of their joint missions with another platoon, they encountered Aster a boy who looked no older than sixteen. Wymar quickly realized Aster had been forced into the army, likely due to his deadly combat skills.
 
-He joined the Adventurers’ Guild, taking odd contracts and exploring forgotten ruins. Over time, he settled into a group of six:
-- Darx and Drax — two elven brothers known for constant bickering. Darx was a wizard, and Drax a rogue-in-training under Wymar’s guidance.
--	Hudson — a stocky, loud dwarf with a battleaxe and a bigger heart.
--	Hosh — a disciplined human fighter who naturally led the party.
--	Tasha — a human cleric with unmatched healing and a quiet sense of wisdom.
+  
 
-Wymar became the party’s scout and survivalist. With his roguish instincts and sharp senses, he led them safely through treacherous terrain, uncovered hidden paths, and found shelter when all seemed lost. He had a talent for finding things—especially treasure.
+Years later, exhausted by the relentless bloodshed and disillusioned by the twisted orders from their superiors, Wymar and Max made a decision: they would escape the army and they would take Aster with them. It was the only way to free him from the grasp of the military’s higher-ups.
 
-Over time, his bond with Tasha deepened into love. Four years after his military retirement, they married. Aster, Wymar’s former protégé, was invited to the ceremony. The couple had just returned from a two-year expedition chasing whispers of a magical relic buried in a sunken temple far beyond the coast.
+  
 
-The expedition had been grueling:
--	Darx’s arcane skills led them through magical wards.
--	Wymar and Drax navigated traps and puzzles.
--	Hudson and Hosh fought back hordes of undead.
--	Tasha kept everyone alive through divine grace.
+After parting ways with Max, who left to walk his own path, Wymar and Aster (who now lived under a different name) settled quietly in Waterdeep. There, Wymar helped care for Aster, who had lost both his arms during the war. He taught him how to use the _Mage Hand_ spell to make up for what he had lost until, a few months later, they managed to secure proper arm replacements for him.
 
-Finally, they reached the relic.
+  
 
-But before Wymar could react to the unease prickling in the back of his mind—Tasha screamed. An arrow struck her through the chest. Ambushers emerged from the shadows.
+With Aster healing and finding some peace, Wymar discovered a new purpose for himself: **treasure hunting**.
 
-The battle was chaos. Wymar and his team fought valiantly, but the odds were cruel. Despite their efforts, the ambushers overpowered them. One by one, his friends fell.
+He joined the Adventurers’ Guild, accepting various contracts and delving into forgotten ruins. Over time, he formed a tight-knit group of six:
 
-When the dust settled, Wymar was alone.
+- *Darx and Drax*  two elven brothers notorious for their constant bickering. Darx wielded magic as a wizard, while Drax, a rogue-in-training, honed his skills under Wymar’s guidance.
 
-Devastated and barely alive, he escaped the temple. He returned to the mainland, directionless and broken.
+- ⁠*Hudson*  a stout, boisterous dwarf known for his battleaxe and an even bigger heart.
 
-The Adventurers’ Guild soon found him—not to offer comfort, but to accuse. Word had reached them: Wymar was the last survivor. The implication was damning. Before he could be imprisoned, Wymar fled into the wilderness.
+- *Hosh*  a disciplined human fighter who naturally assumed the role of leader.
 
-He wandered for days, alone and near death, until he collapsed deep in the forest. There, a kind old woman named Namy found him and nursed him back to health. He stayed, helping with chores, hunting, and finding purpose again—however faint.
+- ⁠*Tasha*  a human cleric with unparalleled healing abilities and a quiet wisdom that grounded the team.
 
-But peace never lasts.
+Wymar became the party’s scout and survivalist. With his roguish instincts and keen senses, he guided them safely through treacherous terrain, uncovered hidden paths, and found shelter when hope seemed lost. He had an uncanny talent for discovering treasures.
 
-One day, the authorities came knocking.
+As time passed, his bond with Tasha blossomed into love. Four years after leaving the military, they married, inviting Aster, Wymar’s former protégé, to the ceremony. This joyous occasion was set to take place right after their final expedition an arduous two-year quest chasing whispers of a magical relic buried in a sunken temple far beyond the coast.
 
-And Wymar knew: the past always finds its way back.
+The expedition was grueling:
+
+- ⁠Darx’s arcane skills helped them navigate magical wards.
+
+- ⁠Wymar and Drax deftly avoided traps and solved intricate puzzles.
+
+- Hudson and Hosh bravely fought back waves of undead.
+
+- Tasha’s divine grace kept everyone alive through the darkest moments.
+
+Finally, they reached the relic. But before Wymar could shake off the unease creeping at the back of his mind, Tasha screamed. An arrow pierced her chest, and ambushers erupted from the shadows.
+
+Chaos ensued. Wymar and his team fought valiantly, but the odds were merciless. Despite their courage, the ambushers soon overpowered them. One by one, his friends fell.
+
+When the dust settled, Wymar stood alone.
+
+Devastated and barely clinging to life, he escaped the temple and returned to the mainland, directionless and broken.
+
+The Adventurers’ Guild soon found him not to offer solace, but to accuse. Word had spread: Wymar was the last survivor, and the implications were damning. Before he could be imprisoned, he fled into the wilderness.
+
+He wandered for days, alone and near death, until he collapsed deep in the forest. There, a kind old woman named Namy discovered him and nursed him back to health. He stayed, helping her with chores, hunting, and gradually rediscovering a sense of purpose however faint.
+
+But peace is fleeting. One day, the authorities came knocking. Wymar knew then that the past always finds its way back.
