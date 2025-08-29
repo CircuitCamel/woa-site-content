@@ -2,7 +2,7 @@
 Name: Max Barion
 Race: Human
 Class: Druid/Barbarian
-Level: 4
+Level: 5
 Age: 27
 ---
 ## Backstory

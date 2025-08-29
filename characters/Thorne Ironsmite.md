@@ -2,7 +2,7 @@
 Name: Thorne Ironsmite
 Race: Human
 Class: Monk/Paladin
-Level: 4
+Level: 5
 Age: 29
 ---
 

@@ -2,7 +2,7 @@
 Name: Wymar Kraft
 Race: Elf
 Class: Fighter
-Level: 4
+Level: 5
 Age: 26
 ---
 ## Backstory

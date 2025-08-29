@@ -2,7 +2,7 @@
 Name: Aster
 Race: Human
 Class: Cleric/Fighter
-Level: 4
+Level: 5
 Age: 26
 ---
 ## Backstory
