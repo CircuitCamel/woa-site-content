@@ -1,4 +1,4 @@
-Max Barion=/characters/Max-Barion
-Aster=/characters/Aster
-Thorne Ironsmite=/characters/Thorne-Ironsmite
-Wymar Kraft=/characters/Wymar-Kraft
+Max Barion=/characters/max-barion
+Aster=/characters/aster
+Thorne Ironsmite=/characters/thorne-ironsmite
+Wymar Kraft=/characters/wymar-kraft
